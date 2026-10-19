@@ -1,5 +1,5 @@
 # pyspark-project
-# pyspark-project
+
 ## Feature Engineering Reports
 
 This section documents the feature engineering process applied to the COVID-19 time series dataset, including feature selection and the creation of new time-based features.
@@ -16,7 +16,7 @@ This report illustrates how new time-based features were created from the date c
 
 🖼️ **Feature Engineering Visualization**
 
-![Time Series Feature Engineering](notebook/5958811307370811264(1).jpg)
+![Time Series Feature Engineering](notebook/5958811307370811264.jpg)
 
 ### Key Objectives
 
